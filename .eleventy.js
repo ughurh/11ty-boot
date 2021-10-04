@@ -5,13 +5,13 @@ module.exports = (eleventyConfig) => {
     dir: {
       input: 'src',
       output: 'public',
-      layouts: '_layouts',
+      //layouts: '_layouts',
     },
     templateFormats: [
       'html',
       'md',
       'njk',
     ],
-    // pathPrefix: '/YOUR_REPO_NAME_HERE/', // omit this line if using custom domain
+    //pathPrefix: '/YOUR_REPO_NAME_HERE/'
   };
 };
