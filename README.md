@@ -1,6 +1,8 @@
 # 11ty Boot
 
-**An Eleventy Skeleton**
+**An Eleventy Skeleton with Github Actions Workflow**
+
+An Eleventy skeleton with an option allowing you to easily publish to the Github Pages
 
 1. Edit **.eleventy.js** file if you want different configuration
 2. For publishing with Github Pages: 
