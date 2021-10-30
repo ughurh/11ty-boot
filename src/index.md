@@ -1,5 +1,5 @@
 ---
-layout: _layouts/base.njk
+layout: layouts/base.njk
 title: Hello World
 ---
 
